@@ -1,0 +1,43 @@
+*{
+    margin: 0 ;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header {
+    background-color:#B9EAA8;
+padding-top: 17px;
+padding-bottom: 17px;
+}
+.contener {
+
+}
+.header__inner {
+display: flex;
+align-items: center;
+width: 1332px;
+margin-left: 240px;
+}
+.link__logo {
+
+}
+.header__ul {
+list-style: none;
+display: flex;
+margin-left: 150px;
+}
+.header__li-list {
+margin: 10px;
+padding: 10px;
+}
+.header__login {
+}
+.header__join {
+}
+.join__us {
+}
+.interest {
+}
+.link {
+}
+.strong{
+}
